@@ -1,0 +1,8 @@
+matplotlib
+plotly
+scikit-learn
+scipy
+datetime
+astropy
+streamlit-option-menu
+streamlit-scroll-to-top
